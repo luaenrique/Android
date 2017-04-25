@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Wolfox Agenda</string>
+    <string name="wolfox">Wolfox</string>
+    <string name="copy">Sarah Jullie e Luã Enrique © 2017</string>
+    <string name="digiteseunome">Nome</string>
+    <string name="digiteseusobrenome">Sobrenome</string>
+    <string name="digiteseuemail">E-mail</string>
+    <string name="digiteseurelacionamento">Relacionamento</string>
+    <string name="digiteseutelefone">Telefone</string>
+    <string name="cadastrar">CADASTRAR</string>
+    <string name="voltar">VOLTAR</string>
+    <string name="listar">LISTAR</string>
+
+    <string-array name="dummy_data" >
+        <item>Alana Silva - (41) 99823-2332</item>
+        <item>André Campana - (41) 93213-2332</item>
+        <item>Bruno Silveira - (41) 93192-2332</item>
+        <item>Cláudio Motini - (41) 98052-3124</item>
+        <item>Diego Luís - (41) 3078-0542</item>
+        <item>Eliane da Costa - (41) 3224-4299</item>
+        <item>Fernando Henrique - (41) 4002-8922</item>
+        <item>Gabriel Silva - (41) 3225-9923</item>
+        <item>Matheus Almeida - (42) 99876-5432</item>
+        <item>Paula Fernandes - (41) 98876-2212</item>
+    </string-array>
+</resources>
